@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-11-20T09:17:14.393Z",
+  "base": "http://127.0.0.1:4173",
+  "viewportChecks": [
+    "1440x1000",
+    "768x1024",
+    "360x780",
+    "1920x1080"
+  ],
+  "passed": 44,
+  "failed": 0,
+  "results": [
+    {
+      "name": "introduction renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "skip link present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sample status disclosed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "dashboard route",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "headline metrics visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "answer input focused",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "empty submission is refused",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "wrong answer gives feedback",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "reason shown",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "answer is locked after submission",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "session 1 completed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "next question resets the field",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "case and whitespace tolerated on every item",
+      "ok": true,
+      "detail": "10/10 accepted"
+    },
+    {
+      "name": "attempts recorded in analytics",
+      "ok": true,
+      "detail": "value=20"
+    },
+    {
+      "name": "attempts survive a reload (device storage)",
+      "ok": true,
+      "detail": "before=20 after=20"
+    },
+    {
+      "name": "/previous-years renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/exams renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/grammar renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/vocabulary renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/revision renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/mocks renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "/settings renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mock timer visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mock results separate omitted",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "dark theme applied",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "backup downloads with a dated name",
+      "ok": true,
+      "detail": "keyform-backup-2026-11-20.json"
+    },
+    {
+      "name": "backup file is a valid Keyform backup",
+      "ok": true,
+      "detail": "21 attempts"
+    },
+    {
+      "name": "backup restores into the app",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "options hidden when recall mode is on",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "options revealed after submitting",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no horizontal overflow at 360px",
+      "ok": true,
+      "detail": "scrollWidth=360"
+    },
+    {
+      "name": "mobile menu button present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no horizontal overflow at 768px",
+      "ok": true,
+      "detail": "scrollWidth=768"
+    },
+    {
+      "name": "unknown route shows recovery",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no console errors",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "consoleErrors": []
+}
